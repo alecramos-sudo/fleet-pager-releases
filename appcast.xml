@@ -1,18 +1,29 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!-- sparkle-sign-warning:
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
---><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+-->
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Fleet Pager</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Fri, 20 Nov 2026 18:21:27 -0800</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/alecramos-sudo/fleet-pager-releases/releases/download/mac-v0.1.0-2/FleetPager-0.1.0-2.zip" length="2004242" type="application/octet-stream" sparkle:edSignature="E4Ox7Pr+hbNZbeBmn35WNLAItZD7lqOiattnX+uv5GzK06W3pEA5HaVIhbFd1bKoasNSMcXQKLxy11pKp5fiBQ=="/>
+        </item>
         <item>
             <title>0.1.0</title>
             <pubDate>Fri, 20 Nov 2026 18:15:03 -0800</pubDate>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/alecramos-sudo/fleet-pager-releases/releases/download/mac-v0.1.0-1/FleetPager-0.1.0-1.zip" length="1996936" type="application/octet-stream" sparkle:edSignature="H4hslFdnTvY6zqVdUrehF/b/99D6KIDv61MvtUQqXZG3fVWxzCll0zZqctoVb8ZVT0lD6cjAucIas0Pg1kp5AA=="></enclosure>
+            <enclosure url="https://github.com/alecramos-sudo/fleet-pager-releases/releases/download/mac-v0.1.0-1/FleetPager-0.1.0-1.zip" length="1996936" type="application/octet-stream" sparkle:edSignature="H4hslFdnTvY6zqVdUrehF/b/99D6KIDv61MvtUQqXZG3fVWxzCll0zZqctoVb8ZVT0lD6cjAucIas0Pg1kp5AA=="/>
         </item>
     </channel>
-</rss><!-- sparkle-signatures:
-edSignature: w3YNvvQ0hSePf4N46QJy/dQm6mRr4xpN8F3IWe9fzrEubCnnKFAko1p8K7dk7VUKYZYCUQ/78t1Mnv4P+B12Cw==
-length: 1089
+</rss>
+<!-- sparkle-signatures:
+edSignature: KVS6xQ3/mpR2ygld++7kbkPXkCJW08oZoHjZrvDtjGmzCtXuyi3YN0cyEyLW/8Xng9GxeBJSLKs8ao1hRRpKAQ==
+length: 1710
 -->
