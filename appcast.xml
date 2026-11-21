@@ -7,6 +7,14 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>Fleet Pager</title>
         <item>
             <title>0.1.0</title>
+            <pubDate>Fri, 20 Nov 2026 18:23:57 -0800</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/alecramos-sudo/fleet-pager-releases/releases/download/mac-v0.1.0-3/FleetPager-0.1.0-3.zip" length="2003654" type="application/octet-stream" sparkle:edSignature="PJJkDPEZ9f7FG3EwjMwC1852P8IASnx+WAysYZNiXUbYzStwbsIKyTpalYyQULO0vxvc+qVJzfbuy/Xu8A54Bw=="/>
+        </item>
+        <item>
+            <title>0.1.0</title>
             <pubDate>Fri, 20 Nov 2026 18:21:27 -0800</pubDate>
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
@@ -24,6 +32,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: KVS6xQ3/mpR2ygld++7kbkPXkCJW08oZoHjZrvDtjGmzCtXuyi3YN0cyEyLW/8Xng9GxeBJSLKs8ao1hRRpKAQ==
-length: 1710
+edSignature: CNtksJl2d5nFmWyAKnMCTSmKf2TJ1zbaV16bDjj5xzasuFbQn5rHhnvNlbJbA6LQUGhx93VCgxEJ4oqyAGM8Ag==
+length: 2339
 -->
