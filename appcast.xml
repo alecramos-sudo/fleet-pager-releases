@@ -7,6 +7,14 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>Fleet Pager</title>
         <item>
             <title>0.1.0</title>
+            <pubDate>Mon, 23 Nov 2026 23:29:03 -0800</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/alecramos-sudo/fleet-pager-releases/releases/download/mac-v0.1.0-5/FleetPager-0.1.0-5.zip" length="2015483" type="application/octet-stream" sparkle:edSignature="0cIHWRp4GIadesrjOqs3b97zZpnIqTQK1KeMRvoU03k0Q3p8vQp4gNCgjZ4frSjkoYmtclBgS2/fxfCHyvkLBA=="/>
+        </item>
+        <item>
+            <title>0.1.0</title>
             <pubDate>Fri, 20 Nov 2026 19:21:59 -0800</pubDate>
             <sparkle:version>4</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
@@ -21,17 +29,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/alecramos-sudo/fleet-pager-releases/releases/download/mac-v0.1.0-3/FleetPager-0.1.0-3.zip" length="2003654" type="application/octet-stream" sparkle:edSignature="PJJkDPEZ9f7FG3EwjMwC1852P8IASnx+WAysYZNiXUbYzStwbsIKyTpalYyQULO0vxvc+qVJzfbuy/Xu8A54Bw=="/>
         </item>
-        <item>
-            <title>0.1.0</title>
-            <pubDate>Fri, 20 Nov 2026 18:21:27 -0800</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/alecramos-sudo/fleet-pager-releases/releases/download/mac-v0.1.0-2/FleetPager-0.1.0-2.zip" length="2004242" type="application/octet-stream" sparkle:edSignature="E4Ox7Pr+hbNZbeBmn35WNLAItZD7lqOiattnX+uv5GzK06W3pEA5HaVIhbFd1bKoasNSMcXQKLxy11pKp5fiBQ=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: XRHsOngs4Lebbfk2uLRYj7dYggzbrDzkECjgwbNFz7bzjLVg2aY8pCYqFVyI5n4tPB59UP+DYFvZSowUq5NxCA==
+edSignature: LXjR3ovPWcS0HM8UKs3pqLdKl8TRFBfDse6E217zvAfAW9VIWn7ueQ+lVzyPUn9bs1VnWrNi2FKaDUpwDY3aDQ==
 length: 2339
 -->
